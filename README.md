@@ -41,3 +41,11 @@ Before connecting to Spot, ensure **all dependencies are installed** locally sin
 
 ```bash
 pip install numpy opencv-python spot-sdk
+
+## 📩 Contact
+
+For questions, feedback, or collaboration opportunities, feel free to:
+
+- Open an [Issue](https://github.com/kossakovm/follow-me-spot/issues)
+- Or email me directly at [marlen.kossakov@gmail.com](mailto:marlen.kossakov@gmail.com)
+
